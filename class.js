@@ -32,3 +32,6 @@ class car{
 }
 const nam = new car("bmw","80lakhs","blue");
 nam.output()
+
+let b = 20;
+console.log(b);
